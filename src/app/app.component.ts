@@ -12,7 +12,7 @@ export class AppComponent implements OnInit{
     this.getMyName();
   }
   getMyName() {
-    let tmpTitle = "hello test";
+    let tmpTitle = "hello test111";
     this.title= tmpTitle;
   }
 }
